@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function noop() {}","map":{"version":3,"names":["noop"],"sources":["/home/thor/Work_Projects/angular/Formação Angular/C12-Desafio-1/blog/node_modules/rxjs/dist/esm/internal/util/noop.js"],"sourcesContent":["export function noop() { }\n"],"mappings":"AAAA,OAAO,SAASA,IAAI,GAAG,CAAE"},"metadata":{},"sourceType":"module","externalDependencies":[]}
